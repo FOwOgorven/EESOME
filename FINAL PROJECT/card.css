@@ -1,0 +1,103 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  width: 1919px;
+  height: 85px;
+}
+
+.logo {
+  height: 65px;
+  width: 85px;
+}
+
+.navbar-brand {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #7b4380;
+  font-size: 30px;
+}
+
+.collapse navbar-collapse {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+.navbar-nav {
+  color: #987d9a;
+}
+
+.windows {
+  height: 300px;
+}
+
+h5 {
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.contact {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ffdfd6;
+}
+
+.contact {
+  padding: 15px;
+  background-color: #8c3061;
+  border-radius: 10px;
+}
+
+.contact:hover {
+  background-color: #d95f59;
+  color: #c63c51;
+}
+
+.navbar2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+section {
+  background-color: #ffdfd6;
+}
+
+.card {
+  background-color: #fabbff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.cardsec1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-img-top {
+  height: 235px;
+  width: 240px;
+}
+
+.cardsec2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cardsec3 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.tshirt {
+  display: flex;
+  justify-content: center;
+}
